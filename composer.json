@@ -1,0 +1,17 @@
+{
+    "name": "masonx/car",
+    "description": "汽车",
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Masonx\\Car\\": "src/"
+        }
+    }
+}
